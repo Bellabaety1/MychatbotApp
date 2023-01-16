@@ -11,7 +11,7 @@ from chat import chatBot
 chatBot = chatBot()
 
 
-#import nltk 
+import nltk 
 nltk.download('punkt')
 
 app = Flask(__name__)
