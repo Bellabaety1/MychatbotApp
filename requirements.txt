@@ -7,3 +7,7 @@ numpy
 requests
 torch
 gunicorn
+psycopg2
+flask_sqlalchemy
+Collapse
+
