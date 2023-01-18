@@ -15,7 +15,7 @@ nltk.download('punkt')
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = "postgresql+psycopg2://bella:FeRo9SCIv9KQerWX3ZIyQRgiZNbBN4wp@dpg-cf3ukg94rebfa0qfv8ig-a.oregon-postgres.render.com/chatbot_s1xw"
 
-postgres://
+
 db = SQLAlchemy(app)
 CORS(app)
 ## Database
