@@ -48,8 +48,8 @@
     padding: 10px;
     text-align: center;
     border-bottom: var(--border);
-    background: #eee;
-    color: #666;
+    background: rgb(53, 19, 177);
+    color: rgb(247, 243, 243);
   }
   
   .msger-chat {
